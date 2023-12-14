@@ -1,0 +1,1 @@
+//  console.log(typeof user[0].isActive)
